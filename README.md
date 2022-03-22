@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LiveZX
 - 👀 I’m interested in Habbo stuff
-- 🌱 I’m currently learning nothing at all !
+- 🌱 I’m currently learning basic programming
 - 💞️ I’m looking to collaborate on uhm Nitro and habbo things...
 - 📫 How to reach me: Discord (Live#6609)
 
