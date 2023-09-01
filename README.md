@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LiveZX
-- 👀 I’m interested in Habbo stuff
-- 🌱 I’m currently learning basic programming
+- 👀 I’m interested in web development
+- 🌱 I’m currently studying Computer Science at Maastricht University
 - 💞️ I’m looking to collaborate on Nitro and Habbo related stuff
 - 📫 How to reach me: Discord (LiveZX)
 
